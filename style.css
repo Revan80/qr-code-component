@@ -1,0 +1,44 @@
+body {
+  background-color: #d5e1ef;
+  width: 360px;
+  margin: 0 auto;
+}
+
+.container1 {
+  width: 352px;
+  height: 540px;
+  margin-top: 70px;
+  border: 1px solid white;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.container2 img {
+  margin-left: 5%;
+  margin-top: 16px;
+  width: 90%;
+  height: 92%;
+  border-radius: 11px;
+}
+
+.container3 {
+  width: 80%;
+  margin-left: 35px;
+}
+
+.container3 p,
+h2 {
+  text-align: center;
+}
+
+.container3 p {
+  color: grey;
+}
+
+.container3 h2 {
+  font-family: Fredoka One;
+  font-weight: normal;
+  font-size: 22px;
+}
