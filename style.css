@@ -1,3 +1,4 @@
+/* Main page elements */
 body {
   background-color: #d5e1ef;
   width: 360px;
@@ -6,8 +7,8 @@ body {
 
 .container1 {
   width: 352px;
-  height: 540px;
-  margin-top: 70px;
+  height: 535px;
+  margin-top: 140px;
   border: 1px solid white;
   border-radius: 15px;
   display: flex;
@@ -34,11 +35,15 @@ h2 {
 }
 
 .container3 p {
-  color: grey;
+  color: rgb(143, 142, 142);
+  margin-top: 23px;
+  font-size: 15px;
+  font-family: Outfit;
+  font-weight: bold;
 }
 
 .container3 h2 {
-  font-family: Fredoka One;
-  font-weight: normal;
-  font-size: 22px;
+  font-family: Outfit;
+  font-size: 23px;
+  font-weight: bold;
 }
